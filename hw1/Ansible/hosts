@@ -1,0 +1,6 @@
+[webservers:vars]
+ansible_ssh_private_key_file=./key_pair.pem 
+
+[webservers]
+13.58.25.25
+
